@@ -17,7 +17,7 @@ Each branch in this repository represents a major stage, each commit a subtask t
 
 The four stages are as follows:
 
-### Stage 1: Implement a Language Server For a Statemachine DSL with Xtext
+### Stage 1: Implement a Language Server For a Statemachine DSL with Xtetx
 
 We create a new Xtext project, add a grammar for a statemachine DSL, and run the Xtext code generator to generate the [language server](https://microsoft.github.io/language-server-protocol/) (LS) for the DSL. We also add a bit of sugar in form of
 
